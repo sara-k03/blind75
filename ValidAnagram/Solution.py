@@ -6,4 +6,4 @@ class Solution(object):
         :rtype: bool
         """
 
-        # INCOMPLETE 
+        return sorted(s) == sorted(t)
